@@ -1,10 +1,10 @@
 #!/bin/bash
-# Installer for SINDHI
+# Installer for setup
 
 source etc/banner
 # Banner Add
 echo -e "executing: ${LIGHTGREEN}SETUP${NOCOLOR}"
-echo "-----------------------"
+echo "<SHAHID SINDHI OBB TOOL>"
 # Setup directory for Requirements
 quickbms_dir=$PREFIX/share/quickbms
 
