@@ -44,7 +44,7 @@ function quickbms_install {
   sleep 1
   yes | cp -rf quickbms_4gb_files $quickbms_dir/quickbms
   sleep 1
-  chmod +x etc/tools.bms SINDHI
+  chmod +x etc/tools.bms setup
   sleep 1
   rm -rf quickbms*
   rm setup
