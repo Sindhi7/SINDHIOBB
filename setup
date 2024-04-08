@@ -1,5 +1,5 @@
 #!/bin/bash
-# Installer for setup
+# Installer for SINDHIOBB
 
 source etc/banner
 # Banner Add
@@ -16,7 +16,7 @@ function redirect {
  sleep 1
  echo -ne '#######################   (100%)\r'
  echo -ne '\n'
-bash SINDHI
+bash 
 }
 
 function quickbms_check {
