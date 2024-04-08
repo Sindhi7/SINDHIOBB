@@ -2,7 +2,7 @@ i#!/usr/bin/env bash
 
 source etc/banner
 # Banner Add
-echo -e "executing: ${LIGHTGREEN}SINDHIOBB${NOCOLOR}"
+echo -e "executing: ${LIGHTGREEN}OBBTOOL${NOCOLOR}"
 echo "-----------------------"
 if [[ -d "output" ]]
   then
