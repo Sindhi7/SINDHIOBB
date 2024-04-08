@@ -1,10 +1,9 @@
-#!/usr/bin/env bash
+i#!/usr/bin/env bash
 
 source etc/banner
 # Banner Add
-echo -e "executing: ${LIGHTGREEN}ThePAK${NOCOLOR}"
+echo -e "executing: ${LIGHTGREEN}SINDHIOBB${NOCOLOR}"
 echo "-----------------------"
-
 if [[ -d "output" ]]
   then
     echo ""
